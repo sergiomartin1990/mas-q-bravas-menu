@@ -4,7 +4,7 @@
       "id": "huevos",
       "titulo": "Manda Huevos",
       "items": [
-        { "nombre": "Huevos rotos con jamón y pimientos de padrón", "precio": "13,00€" },
+        { "nombre": "Huevos rotos con jamón y pimientos de padrón", "precio": "12,00€" },
         { "nombre": "Huevos rotos con matanza", "precio": "12,00€" },
         { "nombre": "Huevos rotos con chistorra", "precio": "13,00€" },
         { "nombre": "Huevos rotos con gulas y cebolla caramelizada", "precio": "14,50€" }
