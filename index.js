@@ -23,7 +23,8 @@
     // Función principal para cargar el menú
 async function loadMenu() {
     try {
-        const response = await fetch('menu.json');
+        // FORMA CORRECTA (Ruta relativa)
+        const response = await fetch('./menu.json');
         const data = await response.json();
         renderMenu(data.categorias);
     } catch (error) {
