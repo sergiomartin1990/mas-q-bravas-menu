@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>+Q Bravas · Carta</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="hero">
+    <div class="hero-logo">
+      <img class="image" src="./media/logo/logo.png" alt="Logo +Q Bravas" />
+    </div>
+    <div class="hero-sub">Carta digital</div>
+    <a class="hero-ig" href="https://instagram.com/masquebravas.rivas">@masquebravas.rivas</a>
+  </div>
+
+  <div class="cats" id="category-filters">
+    <button class="cat-btn active" onclick="filterMenu('todos', this)">Todos</button>
+    <button class="cat-btn" onclick="filterMenu('huevos', this)">Manda Huevos</button>
+    <button class="cat-btn" onclick="filterMenu('papas', this)">Operación Papa</button>
+    <button class="cat-btn" onclick="filterMenu('croquetas', this)">Croquet-Arte</button>
+    <button class="cat-btn" onclick="filterMenu('alas', this)">¡Ala Qué Rico!</button>
+    <button class="cat-btn" onclick="filterMenu('panes', this)">Entre Panes</button>
+    <button class="cat-btn" onclick="filterMenu('huerta', this)">De La Huerta</button>
+    <button class="cat-btn" onclick="filterMenu('racion', this)">¡Qué Ración!</button>
+    <button class="cat-btn" onclick="filterMenu('postres', this)">Final Feliz</button>
+  </div>
+
+  <div id="menu-container">
+    </div>
+
+  <div class="footer">
+    Precios con IVA incluido · Infórmenos de sus alergias<br>
+    <a href="https://instagram.com/masquebravas.rivas">@masquebravas.rivas</a>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "categorias": [
+    {
+      "id": "huevos",
+      "titulo": "Manda Huevos",
+      "items": [
+        { "nombre": "Huevos rotos con jamón y pimientos de padrón", "precio": "12,00€" },
+        { "nombre": "Huevos rotos con matanza", "precio": "12,00€" },
+        { "nombre": "Huevos rotos con chistorra", "precio": "13,00€" },
+        { "nombre": "Huevos rotos con gulas y cebolla caramelizada", "precio": "14,50€" }
+      ]
+    },
+    {
+      "id": "papas",
+      "titulo": "Operación Papa",
+      "items": [
+        { "nombre": "Bravas", "precio": "6,50€" },
+        { "nombre": "Ali oli", "precio": "6,50€" },
+        { "nombre": "Mixtas", "precio": "7,00€" },
+        { "nombre": "Papa huancaina", "precio": "8,50€" },
+        { "nombre": "Papas dos mojos", "precio": "8,50€" },
+        { "nombre": "Gauchas", "nota": "queso y virutas de torrezno", "precio": "12,00€" },
+        { "nombre": "+Q Salchipapas", "precio": "10,00€" }
+      ]
+    },
+    {
+      "id": "croquetas",
+      "titulo": "Croquet-Arte",
+      "items": [
+        { "nombre": "Croquetas de Jamón Ibérico", "precio": "9,90€" },
+        { "nombre": "Croquetas de Rabo de toro", "precio": "9,90€" },
+        { "nombre": "Croquetas de Queso Idiazábal", "precio": "9,90€" },
+        { "nombre": "Croquetas de Carabinero", "precio": "9,90€" },
+        { "nombre": "Croquetas de Boletus", "precio": "9,90€" }
+      ]
+    },
+    {
+      "id": "alas",
+      "titulo": "¡Ala Qué Rico!",
+      "items": [
+        { "nombre": "Alitas clásicas", "precio": "8,50€" },
+        { "nombre": "Alitas crujientes", "precio": "10,00€" },
+        { "nombre": "Alitas acevichadas", "precio": "12,50€" },
+        { "nombre": "Alitas bourbon", "precio": "12,50€" },
+        { "nombre": "Alitas anticucheras", "precio": "12,50€" }
+      ]
+    },
+    {
+      "id": "panes",
+      "titulo": "Entre Panes",
+      "items": [
+        { "nombre": "Bocadillo panceta", "precio": "6,50€" },
+        { "nombre": "Bocadillo tortilla de patatas", "precio": "5,50€" },
+        { "nombre": "Bocadillo cinta de lomo", "precio": "6,00€" },
+        { "nombre": "Bocadillo bacon", "precio": "6,00€" },
+        { "nombre": "Bocadillo de filete de pollo, lechuga y mahonesa", "precio": "7,00€" },
+        { "nombre": "Bocadillo chistorra", "precio": "6,50€" },
+        { "nombre": "Bocadillo jamón serrano", "precio": "5,50€" },
+        { "nombre": "Bocadillo calamares", "precio": "7,50€" },
+        { "nombre": "Bocadillo oreja", "precio": "6,00€" }
+      ]
+    },
+    {
+      "id": "huerta",
+      "titulo": "De La Huerta",
+      "items": [
+        { 
+          "nombre": "Ensalada clásica", 
+          "descripcion": "Lechuga romana, tomate cherry, cebolla, espárragos, huevo cocido y atún",
+          "precio": "9,50€" 
+        },
+        { 
+          "nombre": "Ensalada especial", 
+          "descripcion": "Lechuga romana, tomate cherry, cebolla roja, queso de cabra, aguacate y pollo",
+          "precio": "12,50€" 
+        },
+        { 
+          "nombre": "Ensalada de tomate", 
+          "descripcion": "Tomate rosa, cebolla roja, ventresca y aceitunas",
+          "precio": "14,50€" 
+        }
+      ]
+    },
+    {
+      "id": "racion",
+      "titulo": "¡Qué Ración!",
+      "items": [
+        { "nombre": "Calamares a la andaluza", "precio": "14,00€" },
+        { "nombre": "Bienmesabe", "precio": "12,00€" },
+        { "nombre": "Torreznos", "nota": "2 uds", "precio": "12,50€" },
+        { "nombre": "Oreja a la plancha", "precio": "9,50€" },
+        { "nombre": "Tiras de pollo", "precio": "12,00€" },
+        { "nombre": "Tortilla de patatas", "nota": "450 grs", "precio": "9,00€" }
+      ]
+    },
+    {
+      "id": "postres",
+      "titulo": "Final Feliz",
+      "items": [
+        { "nombre": "Tarta de queso", "precio": "5,70€" },
+        { "nombre": "Tarta de manzana", "precio": "5,70€" },
+        { "nombre": "Tarta de chocolate dubai", "precio": "5,70€" }
+      ]
+    }
+  ]
+}
